@@ -1,0 +1,29 @@
+.header{
+    background-color: aqua;
+    text-align: center;
+    background-image: url(SUK.jpg);
+    background-size: cover;
+}
+.nav
+
+{
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
+.content{
+    display: flex;
+flex: wrap;
+justify-content: space-around;
+}
+.content p{
+    color:black;
+
+}
